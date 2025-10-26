@@ -1,0 +1,31 @@
+employee_id,employee_name,first_name,last_name,age,salary,designation,department
+1,"Alice Johnson",Alice,Johnson,28,45000,"Software Engineer",IT
+2,"Bob Smith",Bob,Smith,35,52000,"Senior Engineer",IT
+3,"Charlie Brown",Charlie,Brown,40,70000,"Team Lead",IT
+4,"David Lee",David,Lee,50,105000,Director,Sales
+5,"Eva Davis",Eva,Davis,NULL,110000,Director,Marketing
+6,"Frank White",Frank,White,42,32000,"Junior Associate",HR
+7,"Grace Hall",Grace,Hall,29,34000,"Junior Associate",Sales
+8,"Hank Miller",Hank,Miller,38,48000,Analyst,Marketing
+9,"Ivy King",Ivy,King,45,67000,Manager,HR
+10,"Jackie Chan",Jackie,Chan,NULL,90000,Manager,IT
+11,"Kelly Ford",Kelly,Ford,33,40000,Consultant,Sales
+12,"Leo Grant",Leo,Grant,39,60000,"Senior Consultant",HR
+13,"Mona Green",Mona,Green,36,55000,"Senior Analyst",Marketing
+14,"Nina Cole",Nina,Cole,30,75000,Manager,Sales
+15,"Oscar Reed",Oscar,Reed,NULL,115000,Director,HR
+16,"Paul Scott",Paul,Scott,46,32000,Intern,IT
+17,"Quincy Lane",Quincy,Lane,41,58000,Analyst,Marketing
+18,"Rita Moore",Rita,Moore,27,30000,"Junior Associate",Sales
+19,"Steve Baker",Steve,Baker,NULL,118000,Director,IT
+20,"Tina Adams",Tina,Adams,44,105000,Director,HR
+21,"Uma Clark",Uma,Clark,37,41000,Consultant,IT
+22,"Vince Stone",Vince,Stone,32,49000,Analyst,Sales
+23,"Wendy Lopez",Wendy,Lopez,NULL,52000,Consultant,Marketing
+24,"Xander Wright",Xander,Wright,29,43000,"Software Engineer",IT
+25,"Yara Torres",Yara,Torres,34,38000,"Junior Associate",HR
+26,"Zane Cooper",Zane,Cooper,31,87000,Manager,Sales
+27,"Amy Brooks",Amy,Brooks,47,120000,Director,Marketing
+28,"Ben Turner",Ben,Turner,NULL,65000,Manager,HR
+29,"Clara Fields",Clara,Fields,43,97000,Manager,IT
+30,"Dan Fox",Dan,Fox,36,115000,Director,Marketing
