@@ -1,4 +1,4 @@
-employee_id,employee_name,first_name,last_name,age,salary,designation,department
+employee_id,employee_name,first_name,last_name,age,salary,designation,department 
 1,"Alice Johnson",Alice,Johnson,28,45000,"Software Engineer",IT
 2,"Bob Smith",Bob,Smith,35,52000,"Senior Engineer",IT
 3,"Charlie Brown",Charlie,Brown,40,70000,"Team Lead",IT
