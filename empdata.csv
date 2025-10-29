@@ -1,0 +1,8 @@
+﻿empid,empname,designation,mgrid,salary,department
+1,John Smith,CEO,NULL,200000,Management
+2,Sarah Jones,Manager,1,120000,Sales
+3,David Lee,Manager,1,115000,IT
+4,Emma Brown,Executive,2,70000,Sales
+5,Michael Clark,Executive,2,72000,Sales
+6,Olivia White,Developer,3,80000,IT
+7,Daniel Green,Developer,3,78000,IT
